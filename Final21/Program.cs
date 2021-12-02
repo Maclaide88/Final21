@@ -104,8 +104,7 @@ namespace conStack
             {
                 Console.WriteLine("\nERROR: la opción no es valida. Intente de nuevo.");
                 return menu();
-                /*int valor2 = Convert.ToInt32(Console.ReadLine());
-                return valor2;*/
+                
             }
         }
 
